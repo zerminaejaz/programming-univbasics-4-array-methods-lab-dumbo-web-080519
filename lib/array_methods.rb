@@ -20,4 +20,8 @@ end
 
 def using_size(array)
   array.size
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> 9364315f2160aa2c9ee0340b81c8a15149fc7903
